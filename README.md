@@ -4,7 +4,7 @@ Scrape video links from Google Drive
 
 `pip install savant`
 
-```
+```python
 >>> import savant
 >>> savant.get_link("https://drive.google.com/file/d/0BxbhZzYBRTxnZDREcGtGa0pSc0k/view?usp=sharing")
 u'https://r5---sn-i3b7knel.c.docs.google.com/videoplayback?requiressl=yes&id=588dd4855aff61b8&itag=18&source=webdrive&app=texmex&ip=49.149.125.213&ipbits=8&expire=1454717545&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=168F1A419378ED4676B6955D2EC0491B7A0D6504.15AA6E2B864F61707C8D6B6B5A11B3AD8C968DC4&key=ck2&mm=30&mn=sn-i3b7knel&ms=nxu&mt=1454703054&mv=m&nh=IgpwcjAyLmhrZzA4KgkxMjcuMC4wLjE&pl=19,34'
