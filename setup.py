@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='savant',
-      version='0.1',
+      version='0.2',
       description='Scrape video links from Google Drive',
       url='https://github.com/yowmamasita/savant',
       author='Ben Sarmiento',
